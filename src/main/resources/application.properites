@@ -1,0 +1,4 @@
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.hibernate.nameing-startegy=org.hibernate.cfg.ImprovedNamingStrategy
+logging.level.root=INFO
+logging.level.org.dinesh.workspace=TRACE
